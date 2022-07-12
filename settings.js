@@ -24,22 +24,22 @@ global.language = english  //change indonesia to english if you don't understand
 
 // Other
 global.botname = "Executed-BotZ" //namabot kalian
-global.ownername= "Yann Executed" //nama kalian
-global.myweb ="https://yann-executed-team.blogspot.com/2022/06/team-adalah-website-yang-menyediakan.html" //bebas asal jan hapus
+global.ownername= "Sall Executed" //nama kalian
+global.myweb ="https://www.instagram.com/rafilukmanufaizal" //bebas asal jan hapus
 global.youtube = "-" //bebas asal jan hapus
-global.github = "https://RyanStore.github.io/" //bebas
-global.email = "ryandevelopment@gmail.com" //bebas
+global.github = "https://EzinterOfc.github.io/" //bebas
+global.email = "rafilukmanufaizal@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["6282252285143","6282252285143"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6282252285143" // nomor wa kalian
-global.ownernomerr = "+6282252285143" //nmr wa kalian
+global.owner = ["6285600380823","6285600380823"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285600380823" // nomor wa kalian
+global.ownernomerr = "+6285600380823" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = '© Executed BotZོ' //sticker wm ubah
-global.author = 'By Yan Execution' //sticker wm ganti nama kalian
+global.author = 'By Sal Execution' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
