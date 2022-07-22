@@ -1549,9 +1549,9 @@ break
 ╰❒ Owner : ${isCreator ? 'True' : `False`}
 `	
 const buttojns = [
-  {buttonId: 'command', buttonText: {displayText: '📖 List Menu'}, type: 1},
-  {buttonId: 'owner', buttonText: {displayText: '🙍‍♂️ Owner'}, type: 1},
-  {buttonId: 'donasi', buttonText: {displayText: '💰 Donation'}, type: 1}
+  {buttonId: 'command', buttonText: {displayText: '📖 𝙻𝙸𝚂𝚃 𝙼𝙴𝙽𝚄'}, type: 1},
+  {buttonId: 'owner', buttonText: {displayText: '🙍‍♂️ 𝙾𝚆𝙽𝙴𝚁'}, type: 1},
+  {buttonId: 'donasi', buttonText: {displayText: '💰 𝙳𝙾𝙽𝙰𝚃𝙸𝙾𝙽'}, type: 1}
 ]			
 					if(typemenu == 'document'){
 							alpha.sendButDoc(from, ini_anu,  '© ' + ownername, botname , ownername, `WhatsApp Bot Multi Device`, time, pp_bot, pp_bot, buttojns, [ownernya, ini_mark, sender], { quoted: ftroli})
