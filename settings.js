@@ -23,22 +23,22 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "Executed-BotZ" //namabot kalian
+global.botname = "YudsBotz-Md" //namabot kalian
 global.ownername= "Yuds x Sall Executed" //nama kalian
-global.myweb ="https://www.instagram.com/rafilukmanufaizal" //bebas asal jan hapus
-global.youtube = "-" //bebas asal jan hapus
-global.github = "https://EzinterOfc.github.io/" //bebas
-global.email = "rafilukmanufaizal@gmail.com" //bebas
+global.myweb ="https://bit.ly/profil_wahyu" //bebas asal jan hapus
+global.youtube = "#" //bebas asal jan hapus
+global.github = "https://yudsofc.github.io/" //bebas
+global.email = "wahyudi.my.id@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["6285600380823","6285693650294"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285600380823" // nomor wa kalian
+global.owner = ["6285693650294","6285600380823"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285693650294" // nomor wa kalian
 global.ownernomerr = "+6285693650294" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© Executed BotZོ' //sticker wm ubah
+global.packname = '© YudsBotz-Md' //sticker wm ubah
 global.author = 'By Yuds x Sall Execution' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
